@@ -7,8 +7,8 @@ This repo contains solutions for two data science tasks from the PMT coding test
 Clone the repo and install dependencies:
 
 ```bash
-git clone [your-repo-url]
-cd [your-repo-name]
+git clone https://github.com/ondrejmlynarc/PMT-coding-test
+cd PMT-coding-test
 python -m venv .venv
 # Activate venv: source .venv/bin/activate (macOS/Linux) or .\.venv\Scripts\activate (Windows)
 pip install -r requirements.txt
