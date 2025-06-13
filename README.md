@@ -1,6 +1,6 @@
-# Parameta Solutions: Coding Test
+# PMT: Coding Test
 
-This repo contains solutions for two data science tasks from the Parameta Solutions coding test.
+This repo contains solutions for two data science tasks from the PMT coding test.
 
 ## Setup
 
