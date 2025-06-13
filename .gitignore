@@ -1,0 +1,43 @@
+# Virtual environments
+parameta/
+.env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter notebooks
+*.ipynb
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment and config
+*.env
+.env.*
+
+# Python egg
+*.egg-info/
+*.egg
+
+# Compiled code
+build/
+dist/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE-specific
+.idea/
+*.iml
