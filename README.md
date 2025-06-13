@@ -109,7 +109,7 @@ python main.py \
 
 `security_id`, `snap_time`, `is_contiguous`, `bid_stdev`, `mid_stdev`, `ask_stdev`
 
-**Performance:** ~0.01s (Python 3, 16GB RAM)
+**Performance:** ~0.2 (Python 3, 16GB RAM)
 
 ## Testing
 
