@@ -22,7 +22,7 @@ I chose DuckDB as the main library for both tasks due to its superior analytical
 
 ## Task 1: Currency Rate Adjustment
 
-Implements a `RatesCalculator` to adjust timestamped prices using FX spot rates and currency conversion rules.
+Implements a `FXRates` class to adjust timestamped prices using FX spot rates and currency conversion rules.
 
 **Inputs:**
 
